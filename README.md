@@ -1,3 +1,5 @@
+source: pandas-dev/pandas
+
 <div align="center">
   <img src="https://pandas.pydata.org/static/img/pandas.svg"><br>
 </div>
